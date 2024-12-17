@@ -15,7 +15,7 @@ output_path = r'following.csv'
 processed_ids_path = r'processed_ids.txt'
 
 # GitHub API Token（请将其替换为你自己的Token）
-GITHUB_TOKEN = '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'
+GITHUB_TOKEN = '***********'
 
 # 设置认证头
 headers = {
